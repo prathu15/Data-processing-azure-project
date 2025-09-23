@@ -21,7 +21,7 @@ Components Used:
 •	Azure Key Vault – Secrets management (DB password, tokens).
 •	Amazon S3 – Source for order_items.json.
 ________________________________________
-🗂 Resources to be Created
+ Resources to be Created
 •	Storage Account
 o	Container with folders: landing, staging, discarded
 •	Databricks Workspace
